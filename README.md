@@ -1,4 +1,4 @@
-# SmallTV-Utra-RU-EN-FW-dumps
+# SmallTV-Ultra-RU-EN-FW-dumps
 Full EN/RU original firmware dumps of SmallTV Ultra
 
 Main goal is get rid of shitty fw on SmallTV Ultra clones
